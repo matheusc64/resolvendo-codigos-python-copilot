@@ -53,4 +53,6 @@ consciente do código.
 ```bash
 git clone git@github.com:SEU-USUARIO/resolvendo-codigos-python-copilot.git
 
+👨‍💻 Autor
 
+Matheus
